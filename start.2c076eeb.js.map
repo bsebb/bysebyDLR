@@ -1,0 +1,1 @@
+{"mappings":"","sources":["src/js/start.js"],"sourcesContent":["function redirectToPage(page) {\r\n    window.location.href = page;\r\n}"],"names":[],"version":3,"file":"start.2c076eeb.js.map"}
